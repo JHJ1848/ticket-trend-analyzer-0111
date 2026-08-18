@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 420" width="850" height="420">
+  <rect width="850" height="420" rx="10" fill="#1e1e1e"/>
+  <rect width="850" height="35" rx="10" fill="#2d2d2d"/>
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+  <text x="425" y="22" fill="#888888" font-size="12" font-family="monospace" text-anchor="middle">PowerShell - Antigravity Agent Workspace (0818)</text>
+  
+  <text x="25" y="70" fill="#4ec9b0" font-size="13" font-family="monospace">&gt; python -m unittest tests/test_analyzer.py</text>
+  <text x="25" y="95" fill="#dcdcaa" font-size="13" font-family="monospace">......</text>
+  <text x="25" y="115" fill="#888888" font-size="13" font-family="monospace">----------------------------------------------------------------------</text>
+  <text x="25" y="135" fill="#4ec9b0" font-size="13" font-family="monospace">Ran 6 tests in 0.007s</text>
+  <text x="25" y="155" fill="#4ec9b0" font-size="13" font-family="monospace">OK</text>
+  
+  <text x="25" y="195" fill="#4ec9b0" font-size="13" font-family="monospace">&gt; python scripts/run_analysis.py</text>
+  <text x="25" y="220" fill="#569cd6" font-size="13" font-family="monospace">[OK] 数据加载与计算完成:</text>
+  <text x="45" y="240" fill="#cccccc" font-size="13" font-family="monospace">- 工单总数: 50 条 (2024-06-01 至 2024-06-11)</text>
+  <text x="45" y="260" fill="#cccccc" font-size="13" font-family="monospace">- 解决率: 84.0% (未解决: 8 条，退款未结率: 38.5%)</text>
+  <text x="45" y="280" fill="#cccccc" font-size="13" font-family="monospace">- 平均满意度: 2.36 / 5.0 (支付异常单均分: 1.90)</text>
+  <text x="45" y="300" fill="#cccccc" font-size="13" font-family="monospace">- 主管注意力价值矩阵: Top 1 支付防重 (API 94) 自动路由交易中台</text>
+  <text x="45" y="320" fill="#f48771" font-size="13" font-family="monospace">- 识别异常项: 5 项 (已严格采用四步法论证)</text>
+  <text x="25" y="350" fill="#6a9955" font-size="13" font-family="monospace">Markdown report generated: docs/analysis_report.md</text>
+  <text x="25" y="370" fill="#6a9955" font-size="13" font-family="monospace">Web dashboard ready: index.html (含离线自适应 Canvas / Chart.js 双引擎)</text>
+  <text x="25" y="395" fill="#4ec9b0" font-size="13" font-family="monospace">&gt; git push origin master (Sync Complete!)</text>
+</svg>
